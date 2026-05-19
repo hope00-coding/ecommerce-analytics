@@ -1,0 +1,30 @@
+[0m21:28:08.947808 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001734145DE80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001733E1AED50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001734282FC50>]}
+
+
+============================== 21:28:08.966863 | f4d04eef-21e6-4a0e-bf48-050463e1243f ==============================
+[0m21:28:08.966863 [info ] [MainThread]: Running with dbt=1.11.10
+[0m21:28:08.968874 [debug] [MainThread]: running dbt with arguments {'static_parser': 'True', 'no_print': 'None', 'version_check': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'printer_width': '80', 'write_json': 'True', 'empty': 'None', 'log_cache_events': 'False', 'introspect': 'True', 'cache_selected_only': 'False', 'log_format': 'default', 'debug': 'False', 'fail_fast': 'False', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'profiles_dir': 'C:\\Users\\umutm\\.dbt', 'indirect_selection': 'eager', 'use_colors': 'True', 'invocation_command': 'dbt init ecommerce_dbt', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m21:28:09.051395 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\umutm\.dbt
+[0m21:28:09.059128 [debug] [MainThread]: Starter project path: C:\Users\umutm\ecommerce-analytics\venv\Lib\site-packages\dbt\include\starter_project
+[0m21:28:09.136475 [info ] [MainThread]: 
+Your new dbt project "ecommerce_dbt" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m21:28:09.137934 [info ] [MainThread]: Setting up your profile.
+[0m21:28:27.074787 [info ] [MainThread]: Profile ecommerce_dbt written to C:\Users\umutm\.dbt\profiles.yml using target's sample configuration. Once updated, you'll be able to start developing with dbt.
+[0m21:28:27.078330 [debug] [MainThread]: Command `dbt init` succeeded at 21:28:27.077183 after 18.45 seconds
+[0m21:28:27.079509 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001734283ED70>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000017341AE1C70>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000017343A8C270>]}
+[0m21:28:27.080504 [debug] [MainThread]: Flushing usage events
+[0m21:28:30.092351 [debug] [MainThread]: An error was encountered while trying to flush usage events
