@@ -4,6 +4,14 @@
 
 Real-world e-commerce data pipeline built on the Brazilian Olist dataset (~100K orders). Transforms raw, messy CSV files into clean, tested, analysis-ready data models using modern analytics engineering practices.
 
+========>
+       
+PREVIEW OF DASHBOARD:http://127.0.0.1:3002/dashboard/dashboard.html?vscode-livepreview=true
+
+                      <==========
+
+
+
 ---
 
 ## 🎯 Business Questions Answered
