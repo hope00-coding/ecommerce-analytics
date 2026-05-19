@@ -155,4 +155,4 @@ ecommerce-analytics/
 
 ## 📬 Contact
 
-Built by **[Adın Soyadın]** — [LinkedIn](https://linkedin.com/in/USERNAME)
+Built by **[UMUT MENGU AKBUDAK]** — [LinkedIn](https://linkedin.com/in/umutmenguakbudak/)
